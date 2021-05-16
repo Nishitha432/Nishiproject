@@ -1,2 +1,0 @@
-# Nishiproject
-Practice
